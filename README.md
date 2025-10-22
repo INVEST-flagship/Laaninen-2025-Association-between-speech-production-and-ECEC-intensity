@@ -15,7 +15,7 @@ Early childhood education and care, speech production, Finland, education, paren
 
 ## Cite as
 
-Markus Laaninen (2025). Code repository for: Association between speech production and ECEC intensity: differences by family background. Zenodo. 
+Markus Laaninen (2025). Code repository for: Association between speech production and ECEC intensity: differences by family background. Zenodo. https://zenodo.org/records/17413188
 
 
 ## License
