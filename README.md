@@ -3,7 +3,7 @@
 
 Markus Laaninen
 
-
+[![DOI](https://zenodo.org/badge/1081026669.svg)](https://doi.org/10.5281/zenodo.17413187)
 
 ## Introduction
 
